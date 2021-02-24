@@ -7,6 +7,6 @@ To run this project, install it locally using npm:
 
 ```
 install: npm i
-run: npm start
+run: npm start 'port'
 ```
 
